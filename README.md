@@ -7,29 +7,25 @@
 
 </div>
 
+<div align="center" >
+
+![Data Analytics](https://img.shields.io/badge/DATA%20ANALYTICS-0D1117?style=for-the-badge&logo=googleanalytics&logoColor=00B4D8)
+![Power BI](https://img.shields.io/badge/POWER%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![DAX](https://img.shields.io/badge/DAX-0D1117?style=for-the-badge&logo=databricks&logoColor=FF3621)
+![Excel](https://img.shields.io/badge/EXCEL-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
+![Pandas](https://img.shields.io/badge/PANDAS-0D1117?style=for-the-badge&logo=pandas&logoColor=150458)
+![Jupyter](https://img.shields.io/badge/JUPYTER-0D1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Python](https://img.shields.io/badge/PYTHON-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Git](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
+</div>
+
 # Sobre mim
 
 Sou um analista de dados e desenvolvo projetos pessoais focados em transformar dados em insights. Desenvolvo dashboards, consultas e análises que permitem identificar padrões, tendências e oportunidades de melhoria.
 
 Busco ir além da apresentação de números, compreendendo o contexto dos dados e traduzindo informações em análises claras, estruturadas e úteis.
-
-Entre os meus focos nos repositórios estão:
-
-<div align="center" >
-
-<img src="https://img.shields.io/badge/%20-DATA_ANALYTICS-0D1117?style=for-the-badge&labelColor=00B4D8"/>
-<img src="https://img.shields.io/badge/POWER_BI-0D1117?style=for-the-badge&labelColor=00B4D8"/>
-<img src="https://img.shields.io/badge/DAX-0D1117?style=for-the-badge&labelColor=00B4D8"/>
-<img src="https://img.shields.io/badge/EXCEL-0D1117?style=for-the-badge&labelColor=00B4D8"/>
-<img src="https://img.shields.io/badge/PANDAS-0D1117?style=for-the-badge&labelColor=00B4D8"/>
-<img src="https://img.shields.io/badge/JUPYTER-0D1117?style=for-the-badge&labelColor=00B4D8"/>
-<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&labelColor=00B4D8"/>
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/Power%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-
-</div>
 
 <h2 align="center">📂 Projetos em destaque</h2>
 
@@ -46,12 +42,6 @@ Entre os meus focos nos repositórios estão:
       <p align="justify">
         Um projeto de portfólio de análise de um cenário de vendas entre 2007 e 2009 baseado no banco de dados ContosoRetailDW da Microsoft.
       </p>
-      <p>
-        <img src="https://img.shields.io/badge/%20-DATA_ANALYTICS-0D1117?style=flat-square&logo=powerbi&logoColor=F2C811"/>
-        <img src="https://img.shields.io/badge/POWER_BI-0D1117?style=flat-square&logo=powerbi&logoColor=F2C811"/>
-        <img src="https://img.shields.io/badge/DAX-0D1117?style=flat-square"/>
-        <img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logoColor=4169E1"/>
-      </p>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/BrotherVel/dax-bi-data_analyst-core">
@@ -63,11 +53,6 @@ Entre os meus focos nos repositórios estão:
       <p align="justify">
         Repositório dedicado ao estudo de SQL, DAX, Power Query e Power BI, reunindo exemplos práticos e materiais de apoio para desenvolvimento e análise de dados.
       </p>
-      <p>
-        <img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logoColor=4169E1"/>
-        <img src="https://img.shields.io/badge/POWER_BI-0D1117?style=flat-square&logoColor=4169E1"/>
-        <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logoColor=4169E1"/>
-      </p>
     </td>
   </tr>
 </table>
@@ -77,10 +62,10 @@ Entre os meus focos nos repositórios estão:
 <div align="center">
 
 <a href="https://www.linkedin.com/in/lucas-rodrigues-8a6259348/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
-<a href="mailto:lucasreisrodrigues77@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=lucasreisrodrigues77@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 </div>
