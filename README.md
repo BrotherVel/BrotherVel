@@ -1,4 +1,3 @@
-<!-- BANNER: substitua USERNAME pelo seu usuário -->
 <div align="center">
 
 <a href="https://www.linkedin.com/in/lucas-rodrigues-8a6259348/">
@@ -7,18 +6,18 @@
 
 </div>
 
-<div align="center" >
+<div align="center" style="margin-top: -25px;">
 
-![Data Analytics](https://img.shields.io/badge/DATA%20ANALYTICS-0D1117?style=for-the-badge&logo=googleanalytics&logoColor=00B4D8)
-![Power BI](https://img.shields.io/badge/POWER%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![DAX](https://img.shields.io/badge/DAX-0D1117?style=for-the-badge&logo=databricks&logoColor=FF3621)
-![Excel](https://img.shields.io/badge/EXCEL-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
-![Pandas](https://img.shields.io/badge/PANDAS-0D1117?style=for-the-badge&logo=pandas&logoColor=150458)
-![Jupyter](https://img.shields.io/badge/JUPYTER-0D1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Python](https://img.shields.io/badge/PYTHON-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![Git](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Data Analytics](https://img.shields.io/badge/DATA%20ANALYTICS-0D1117?style=for-the-badge&logo=googleanalytics&logoColor=00B4D8&color=123B66)
+![Power BI](https://img.shields.io/badge/POWER%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811&color=123B66)
+![DAX](https://img.shields.io/badge/DAX-0D1117?style=for-the-badge&logo=databricks&logoColor=FF3621&color=123B66)
+![Excel](https://img.shields.io/badge/EXCEL-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346&color=123B66)
+![Pandas](https://img.shields.io/badge/PANDAS-0D1117?style=for-the-badge&logo=pandas&logoColor=150458&color=123B66)
+![Jupyter](https://img.shields.io/badge/JUPYTER-0D1117?style=for-the-badge&logo=jupyter&logoColor=F37626&color=123B66)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1&color=123B66)
+![Python](https://img.shields.io/badge/PYTHON-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&color=123B66)
+![Git](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=F05032&color=123B66)
+![GitHub](https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&color=123B66)
 </div>
 
 # Sobre mim
@@ -27,7 +26,7 @@ Sou um analista de dados e desenvolvo projetos pessoais focados em transformar d
 
 Busco ir além da apresentação de números, compreendendo o contexto dos dados e traduzindo informações em análises claras, estruturadas e úteis.
 
-<h2 align="center">📂 Projetos em destaque</h2>
+<h2> 📂 Projetos em destaque </h2>
 
 <table>
   <tr>
@@ -57,20 +56,20 @@ Busco ir além da apresentação de números, compreendendo o contexto dos dados
   </tr>
 </table>
 
-## 📫 Contato
+<h2 style="margin-top: -25px;"> 📫 Contato </h2>
 
-<div align="center">
+<div align="center" >
 
 <a href="https://www.linkedin.com/in/lucas-rodrigues-8a6259348/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=123B66"/>
 </a>
 <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=lucasreisrodrigues77@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&color=123B66"/>
 </a>
 
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: -25px;">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:0D1117&height=100&section=footer"/>
 
