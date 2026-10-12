@@ -33,7 +33,7 @@ Busco ir além da apresentação de números, compreendendo o contexto dos dados
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/BrotherVel/Dashboard-sales-ContosoRetailDW">
-        <img width="300" height="180" 
+        <img width="100%" 
         src="https://raw.githubusercontent.com/BrotherVel/BrotherVel/main/image/db.png"
         alt="Projeto Power BI"
         />
@@ -45,7 +45,7 @@ Busco ir além da apresentação de números, compreendendo o contexto dos dados
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/BrotherVel/dax-bi-data_analyst-core">
-        <img width="300" height="180" 
+        <img width="100%" 
         src="https://raw.githubusercontent.com/BrotherVel/BrotherVel/main/image/rp.png"
         alt="Projeto SQL"/>
         <h3>Data Analyst Core</h3>
