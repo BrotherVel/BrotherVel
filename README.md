@@ -1,13 +1,15 @@
-<!-- BANNER: substitua USERNAME pelo seu usuário -->
+
 <div align="center">
 
 <a href="https://www.linkedin.com/in/lucas-rodrigues-8a6259348/?isSelfProfile=true">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123B66,100:00B4D8&height=200&section=header&text=LUCAS RODRIGUES&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Data%20Analytics%20%7C%20BI%20%7C%20SQL%20%7C%20Python%20%7C%20Power%20BI&descAlignY=58&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123B66,100:00B4D8&height=200&section=header&text=LUCAS RODRIGUES&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Data%20Analytics%20%7C%20BI%20%7C%20SQL%20%7C%20Python%20%7C%20Power%20BI&descAlignY=58&descSize=16"/>
 </a>
 
 </div>
 
 # Sobre mim
+
+<table>
 
 <p style="border-left: 2px solid #58A6FF; padding-left: 12px; font-size: 15px;">
 Sou um analista de dados e desenvolvo projetos pessoais focados em transformar dados em insights. desenvolvo dashboards, consultas e análises que permitem identificar padrões, tendências e oportunidades de melhoria.
@@ -21,6 +23,9 @@ Busco ir além da apresentação de números, compreendendo o contexto dos dados
 Entre os meus focos nos repositórios estão:
 </p>
 
+</Table>
+
+<table>
 <div align="center">
 
 <img src="https://img.shields.io/badge/%20-DATA_ANALYTICS-0D1117?style=for-the-badge&labelColor=00B4D8"/>
@@ -37,8 +42,7 @@ Entre os meus focos nos repositórios estão:
 
 </div>
 
-
-
+</Table>
 
 <h2 align="center">📂 Projetos em destaque</h2>
 
